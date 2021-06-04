@@ -1,4 +1,6 @@
-stephanie 4th line
+happy day
+stephanie 4th
+line
 This is a third line in my-new-branch version of file.
 Adding a second line to my file.
 This is an exercise to learn Git.
