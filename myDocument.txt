@@ -1,1 +1,2 @@
+Adding a second line to my file.
 This is an exercise to learn Git.
