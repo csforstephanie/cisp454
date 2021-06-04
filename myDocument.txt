@@ -1,2 +1,3 @@
+This is a third line in my-new-branch version of file.
 Adding a second line to my file.
 This is an exercise to learn Git.
